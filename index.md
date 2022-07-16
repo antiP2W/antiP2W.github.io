@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+Welcome to the antiP2W blog
 
-Maybe say a some things about yourself.
+This site is owned by the pay to lose team
 
-Or maybe what you plan to blog about.
+All advertizements will be used for pay to lose projects
