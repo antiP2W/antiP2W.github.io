@@ -12,3 +12,5 @@ title: Blog Archive
     {% endfor %}
   </ul>
 {% endfor %}
+
+<iframe data-aa='2046650' src='//ad.a-ads.com/2046650?size=970x250' style='width:970px; height:250px; border:0px; padding:0; overflow:hidden; background-color: transparent;'></iframe>
